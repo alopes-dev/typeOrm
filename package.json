@@ -1,0 +1,22 @@
+{
+    "name": "typeOrm_Node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pg": "^7.3.0",
+        "reflect-metadata": "^0.1.10",
+        "typeorm": "0.2.24"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.6",
+        "@types/node": "^13.13.4",
+        "ts-node": "^8.10.1",
+        "ts-node-dev": "^1.0.0-pre.44",
+        "typescript": "^3.8.3"
+    },
+    "scripts": {
+        "dev:serve": "ts-node-dev src/index.ts"
+    }
+}
