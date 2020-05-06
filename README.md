@@ -1,11 +1,11 @@
 # Project Build with TypeORM
 
- <p>...!</p>
+ <p>This project is a simple illustration of how to make a restfull api using express, typescript, typeOrm...!</p>
 
 ## ✋🏻 Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
-- [TypeOrm](https://typeorm.io/#/)
+- [Postgresql](https://www.postgresql.org/download/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
 ## Installation
