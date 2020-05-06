@@ -5,9 +5,6 @@ import express, { json } from 'express';
 import routes from './routes/intex.routes'
 
 
-// import roots from  './root'
-
-
 createConnection().then(async () => {
     const app = express();
     app.use(json())
